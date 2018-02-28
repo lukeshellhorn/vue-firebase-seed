@@ -1,8 +1,7 @@
 # vue-firebase-seed
 This is a quick start with basic crud for a vue/firebase web app. Just add firebase key to get started.
 
-> vue firebase seed
-## Open up firebase.js and replace the placeholder key with your own key
+## Open up firebase.js and replace the placeholder key with your own key. If you don't do this the app won't render.
 This key can be obtained when you make a new project in the firebase console.
 
 ``` bash
